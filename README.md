@@ -8,7 +8,7 @@ Spice Route Food Delivery is a modern web application built with React, TypeScri
 
 -  Lightning-fast development with **Vite**
 -  Clean, responsive UI with **Tailwind CSS**
-- ⚛ Built using **React 18** and **React Router**
+-  Built using **React 18** and **React Router**
 -  Type-safe code using **TypeScript**
 -  Linting and code quality checks with **ESLint**
 
